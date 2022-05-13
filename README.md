@@ -1,6 +1,6 @@
-# PTA-for-digit-classification-MNIST
+# PTA Classification (MNIST)
 
-# Distributed_learning
+
 <div id="top"></div>
 <!--
 *** Thanks for checking out my code. If you have a suggestion
